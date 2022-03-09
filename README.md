@@ -33,4 +33,4 @@ In the ```Discord_API``` folder you will need to go to ```config.lua``` and foll
 }
 ```
 - that's it! Best of luck.
-<br><sub><sup>The script was prepared by jaredscar but has undergone a massive change.<sub><sup></br>
+- This script was created by jaredscar and many changes have been made to it.
