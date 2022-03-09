@@ -1,3 +1,9 @@
+## Video & ScreenShot
+- Click the following link to watch the video of the script - https://streamable.com/12z1ty
+
+
+![nc-scoreboard](https://i.ibb.co/ZHZQJ0T/Screenshot-1.png)
+
 # nc-scoreboard
 
 Briefly about the scoreboard.
