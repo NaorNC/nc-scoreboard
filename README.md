@@ -1,7 +1,7 @@
 # nc-scoreboard
 
 Briefly about the scoreboard.
-- The scoreboard was ready 9 months ago (it was in WildStar - which I own), and now it's time to officially release it.
+- The scoreboard was ready 9 months ago (it was in WildStar - which I own), and now it's time to release it.
 - The scoreboard is ready for use, everything works at %100.
 - If you run into a problem, you are always welcome to contact me at Discord (found on my github profile)
 
