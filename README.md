@@ -11,6 +11,8 @@ Briefly about the scoreboard.
 - The scoreboard is ready for use, everything works at %100.
 - If you run into a problem, you are always welcome to contact me at Discord (found on my github profile)
 
+This script was created by jaredscar and many changes have been made to it.
+
 # Installation
 
 - Download the scripts and put them in the ```[resource] or [standalone]``` folder.
@@ -33,4 +35,3 @@ In the ```Discord_API``` folder you will need to go to ```config.lua``` and foll
 }
 ```
 - that's it! Best of luck.
-- This script was created by jaredscar and many changes have been made to it.
