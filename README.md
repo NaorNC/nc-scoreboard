@@ -1,4 +1,4 @@
-## Video & ScreenShot
+## ScreenShot
 - Click the following link to watch the video of the script - https://streamable.com/12z1ty
 
 
