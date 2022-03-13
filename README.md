@@ -9,7 +9,7 @@ Briefly about the scoreboard.
 - The scoreboard is ready for use, everything works at %100.
 - If you run into a problem, you are always welcome to contact me at Discord (found on my github profile)
 
-This script was created by jaredscar and many changes have been made to it.
+This script was created by jaredscar and a lot of changes have been made to it.
 
 # Installation
 
