@@ -7,7 +7,7 @@
 Briefly about the scoreboard.
 - The scoreboard was ready 9 months ago (it was in WildStar - which I own), and now it's time to release it.
 - The scoreboard is ready for use, everything works at %100.
-- If you run into a problem, you are always welcome to contact me at Discord (https://discord.gg/eET8CtgX97)
+- If you run into a problem, you are always welcome to contact me at Discord - NaorNC#8998
 
 This script was created by jaredscar and a lot of changes have been made to it.
 
